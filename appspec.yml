@@ -3,7 +3,7 @@ os: linux
 
 files:
     - source: /
-      destination: /var/www/html/21market-be-v3
+      destination: /var/www/html/nest-base
 file_exists_behavior: OVERWRITE
 hooks:
   ApplicationStart:
