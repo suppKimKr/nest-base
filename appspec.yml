@@ -1,0 +1,12 @@
+version: 0.0
+os: linux
+
+files:
+    - source: /
+      destination: /var/www/html/21market-be-v3
+file_exists_behavior: OVERWRITE
+hooks:
+  ApplicationStart:
+    - location: scripts/reload-pm2.sh
+      timeout: 300
+      runas: root

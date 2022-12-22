@@ -1,0 +1,312 @@
+[
+  {
+    "id": 1,
+    "name": "색상",
+    "parentName": null
+  },
+  {
+    "id": 2,
+    "name": "용량",
+    "parentName": null
+  },
+  {
+    "id": 3,
+    "name": "크기",
+    "parentName": null
+  },
+  {
+    "id": 4,
+    "name": "레드",
+    "parentName": "색상"
+  },
+  {
+    "id": 5,
+    "name": "미드나이트",
+    "parentName": "색상"
+  },
+  {
+    "id": 6,
+    "name": "스타라이트",
+    "parentName": "색상"
+  },
+  {
+    "id": 7,
+    "name": "블루",
+    "parentName": "색상"
+  },
+  {
+    "id": 8,
+    "name": "핑크",
+    "parentName": "색상"
+  },
+  {
+    "id": 9,
+    "name": "시에라블루",
+    "parentName": "색상"
+  },
+  {
+    "id": 10,
+    "name": "골드",
+    "parentName": "색상"
+  },
+  {
+    "id": 11,
+    "name": "실버",
+    "parentName": "색상"
+  },
+  {
+    "id": 12,
+    "name": "알파인그린",
+    "parentName": "색상"
+  },
+  {
+    "id": 13,
+    "name": "그래파이트",
+    "parentName": "색상"
+  },
+  {
+    "id": 14,
+    "name": "보라퍼플",
+    "parentName": "색상"
+  },
+  {
+    "id": 15,
+    "name": "핑크골드",
+    "parentName": "색상"
+  },
+  {
+    "id": 16,
+    "name": "그린",
+    "parentName": "색상"
+  },
+  {
+    "id": 17,
+    "name": "팬텀블랙",
+    "parentName": "색상"
+  },
+  {
+    "id": 18,
+    "name": "팬텀화이트",
+    "parentName": "색상"
+  },
+  {
+    "id": 19,
+    "name": "버건디",
+    "parentName": "색상"
+  },
+  {
+    "id": 20,
+    "name": "크림",
+    "parentName": "색상"
+  },
+  {
+    "id": 21,
+    "name": "라벤더",
+    "parentName": "색상"
+  },
+  {
+    "id": 22,
+    "name": "팬텀그린",
+    "parentName": "색상"
+  },
+  {
+    "id": 23,
+    "name": "스페이스 그레이",
+    "parentName": "색상"
+  },
+  {
+    "id": 24,
+    "name": "티타늄",
+    "parentName": "색상"
+  },
+  {
+    "id": 25,
+    "name": "스페이스 블랙",
+    "parentName": "색상"
+  },
+  {
+    "id": 26,
+    "name": "블랙",
+    "parentName": "색상"
+  },
+  {
+    "id": 27,
+    "name": "옵시디안 블랙",
+    "parentName": "색상"
+  },
+  {
+    "id": 28,
+    "name": "화이트",
+    "parentName": "색상"
+  },
+  {
+    "id": 29,
+    "name": "미스틱 실버",
+    "parentName": "색상"
+  },
+  {
+    "id": 30,
+    "name": "미스틱 블루",
+    "parentName": "색상"
+  },
+  {
+    "id": 31,
+    "name": "미스틱 네이비",
+    "parentName": "색상"
+  },
+  {
+    "id": 32,
+    "name": "미스틱 브론즈",
+    "parentName": "색상"
+  },
+  {
+    "id": 33,
+    "name": "퍼플",
+    "parentName": "색상"
+  },
+  {
+    "id": 34,
+    "name": "미스틱 그린",
+    "parentName": "색상"
+  },
+  {
+    "id": 35,
+    "name": "미스틱 핑크",
+    "parentName": "색상"
+  },
+  {
+    "id": 36,
+    "name": "미스틱 블랙",
+    "parentName": "색상"
+  },
+  {
+    "id": 37,
+    "name": "올리브",
+    "parentName": "색상"
+  },
+  {
+    "id": 38,
+    "name": "팬텀바이올렛",
+    "parentName": "색상"
+  },
+  {
+    "id": 39,
+    "name": "팬텀실버",
+    "parentName": "색상"
+  },
+  {
+    "id": 40,
+    "name": "스카이블루",
+    "parentName": "색상"
+  },
+  {
+    "id": 41,
+    "name": "빨파",
+    "parentName": "색상"
+  },
+  {
+    "id": 42,
+    "name": "옐로우",
+    "parentName": "색상"
+  },
+  {
+    "id": 43,
+    "name": "128GB",
+    "parentName": "용량"
+  },
+  {
+    "id": 44,
+    "name": "256GB",
+    "parentName": "용량"
+  },
+  {
+    "id": 45,
+    "name": "512GB",
+    "parentName": "용량"
+  },
+  {
+    "id": 46,
+    "name": "64GB",
+    "parentName": "용량"
+  },
+  {
+    "id": 47,
+    "name": "1TB",
+    "parentName": "용량"
+  },
+  {
+    "id": 48,
+    "name": "2TB",
+    "parentName": "용량"
+  },
+  {
+    "id": 49,
+    "name": "40mm",
+    "parentName": "크기"
+  },
+  {
+    "id": 50,
+    "name": "41mm",
+    "parentName": "크기"
+  },
+  {
+    "id": 51,
+    "name": "42mm",
+    "parentName": "크기"
+  },
+  {
+    "id": 52,
+    "name": "44mm",
+    "parentName": "크기"
+  },
+  {
+    "id": 53,
+    "name": "45mm",
+    "parentName": "크기"
+  },
+  {
+    "id": 54,
+    "name": "46mm",
+    "parentName": "크기"
+  },
+  {
+    "id": 55,
+    "name": "11인치",
+    "parentName": "크기"
+  },
+  {
+    "id": 56,
+    "name": "12.9인치",
+    "parentName": "크기"
+  },
+  {
+    "id": 57,
+    "name": "13.3인치",
+    "parentName": "크기"
+  },
+  {
+    "id": 58,
+    "name": "14인치",
+    "parentName": "크기"
+  },
+  {
+    "id": 59,
+    "name": "15인치",
+    "parentName": "크기"
+  },
+  {
+    "id": 60,
+    "name": "15.6인치",
+    "parentName": "크기"
+  },
+  {
+    "id": 61,
+    "name": "16인치",
+    "parentName": "크기"
+  },
+  {
+    "id": 62,
+    "name": "17인치",
+    "parentName": "크기"
+  }
+]
